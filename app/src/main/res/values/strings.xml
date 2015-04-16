@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project Cider</string>
+    <string name="edit_message">Username</string>
+    <string name="button_login">Login</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_message">My message</string>
+    <string name="hello_name">Hello</string>
+</resources>
